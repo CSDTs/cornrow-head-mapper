@@ -1,4 +1,4 @@
-# cornrow
+# Cornrow Head Mapper (Title WIP)
 computer vision and 3D displacment of cornrow patterns
 
 Project founded by NSF and authored by Yifan Xu
